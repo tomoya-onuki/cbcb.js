@@ -1,0 +1,18 @@
+.cbcb-btn-box {
+    position: absolute;
+    right: 0px;
+    transform: translate(-15px, 0px);
+    cursor: pointer;
+    color: #000;
+}
+.cbcb-btn {
+    font-variation-settings:
+        'FILL'0,
+        'wght'300,
+        'GRAD'0,
+        'opsz'24;
+    transform: translate(0, 7px);
+}
+.cbcb-msg {
+    display: none;
+}
